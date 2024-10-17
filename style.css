@@ -1,0 +1,17 @@
+.footerList{
+    list-style: none;
+}
+.navigator{
+    border-color:black; border-width: 2px; border-style: solid;
+}
+.NavLinks{
+
+    float: right; position: absolute; top: 6%; left: 65%;
+}
+.footers{
+    border-color:black; border-width: 2px; border-style: solid;
+
+}
+.links{
+    color: black; text-decoration: none;
+}
