@@ -18,9 +18,11 @@ For computer devices only.
 
 • Felipe Chacón Montero [GitHub](https://github.com/PhilippeInCode)
 # Screenshots
+pics
 
-
-
-
-
-
+# Stacks
+In this project we have used HTML, CSS, Figma and Trello
+# Methodology
+We have worked with Agile methodology and SCRUM.
+# Next steps
+steps
