@@ -1,17 +1,35 @@
 .footerList{
     list-style: none;
 }
-.navigator{
-    border-color:black; border-width: 2px; border-style: solid;
-}
-.NavLinks{
-
-    float: right; position: absolute; top: 6%; left: 65%;
-}
 .footers{
     border-color:black; border-width: 2px; border-style: solid;
 
 }
+
+.navigator{
+    border-color:black; border-width: 2px; border-style: solid;
+    background-color: black;
+    height: 110px;
+}
+.NavLinks{
+
+    float: right; position: absolute; top: 7.5%; left: 75%;
+}
+
 .links{
-    color: black; text-decoration: none;
+    color: white; text-decoration: none;
+    margin-right: 20px;
+    
+}
+button{
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.register{
+    background-color: #366873;
+}
+.logoNav{
+    height: 105px;
+    width: 230px;
+    position: absolute; left: 0%;
 }
