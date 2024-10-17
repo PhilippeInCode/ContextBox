@@ -9,10 +9,15 @@ With different topics and customization, we offer a good variety of products in 
 For computer devices only.
 # Members
 • Mario Lebrero García [GitHub](https://github.com/Bimai6)
+
 • Javier Ariza Rosales [GitHub](https://github.com/JaviAriza)
+
 • Mauricio Nicolás Ortiz [GitHub](https://github.com/mortiZimmerman)
+
 • Pablo Jimenez Menendez [GitHub](https://github.com/pablo-jm)
+
 • Felipe Chacón Montero [GitHub](https://github.com/PhilippeInCode)
+# Screenshots
 
 
 
