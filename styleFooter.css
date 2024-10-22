@@ -11,10 +11,14 @@ footer {
   
   .footer-logo {
     text-align: center;
+    
   }
   
   .footer-logo img {
-    width: 150px; 
+    width: 225px; 
+    position: absolute;
+    left: 40px;
+    top: 2190px;
     height: auto; 
   }
   
