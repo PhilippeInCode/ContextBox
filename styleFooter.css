@@ -1,4 +1,3 @@
-/* Estilos del footer */
 footer {
     background-color: #000;
     color: #fff;
@@ -15,8 +14,8 @@ footer {
   }
   
   .footer-logo img {
-    width: 150px; /* Cambiado a 150px para hacer el logo más grande */
-    height: auto; /* Mantener la proporción */
+    width: 150px; 
+    height: auto; 
   }
   
   .footer-logo p {
@@ -26,12 +25,12 @@ footer {
   .socialMedias {
     display: flex;
     gap: 15px;
-    justify-content: center; /* Alinear al centro */
-    margin-top: 10px; /* Añadir espacio entre el logo y las redes sociales */
+    justify-content: center; 
+    margin-top: 10px; 
   }
   
   .socialMedias a img {
-    width: 30px; /* Cambiar el tamaño de los iconos de las redes sociales */
+    width: 30px; 
     height: auto;
   }
   
