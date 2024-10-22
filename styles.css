@@ -1,0 +1,67 @@
+/* Estilos del footer */
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .footer-logo {
+    text-align: center;
+  }
+  
+  .footer-logo img {
+    width: 150px; /* Cambiado a 150px para hacer el logo más grande */
+    height: auto; /* Mantener la proporción */
+  }
+  
+  .footer-logo p {
+    margin-top: 10px;
+  }
+  
+  .socialMedias {
+    display: flex;
+    gap: 15px;
+    justify-content: center; /* Alinear al centro */
+    margin-top: 10px; /* Añadir espacio entre el logo y las redes sociales */
+  }
+  
+  .socialMedias a img {
+    width: 30px; /* Cambiar el tamaño de los iconos de las redes sociales */
+    height: auto;
+  }
+  
+  .footerList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .footerList p {
+    font-weight: bold;
+  }
+  
+  .footerList li {
+    margin: 8px 0;
+  }
+  
+  .footerList li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footerList li a:hover {
+    text-decoration: underline;
+  }
+  
+  .open-sans-font {
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+  }
+  
