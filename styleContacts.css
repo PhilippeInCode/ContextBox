@@ -1,0 +1,59 @@
+.contacts{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto auto;
+    gap: 20px;
+    justify-items: center;
+    padding: 80px 50px;
+    row-gap: 50px;
+}
+
+body{
+    background-color: #F2F2F2;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contactos{
+    text-shadow: 1px 1px 2px black;
+    font-size: 50px;
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+
+figcaption{
+    border-style:solid;
+    border-radius: 20px;
+    text-align: center;
+    background-color: white;
+}
+
+.contact1{
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.contact2{
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.contact3{
+    grid-column: 3;
+    grid-row: 1;
+}
+
+.contact4{
+    grid-column: 1/-2;
+    grid-row: 2;
+}
+
+.contact5{
+    grid-row: 2;
+    grid-column: 2/-1;
+}
+
+
+
+
+
