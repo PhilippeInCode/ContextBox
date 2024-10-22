@@ -54,7 +54,7 @@ main {
 .second_section {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 90px;
+    gap: 100px;
     margin-right: 40px;
   }
   
